@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionspdate",
+        "uuid": 11821897,
+        "checksum": "hpzo3e"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
